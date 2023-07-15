@@ -1,0 +1,6 @@
+change repository origin
+>git remote rm origin
+add new origin
+>git remote add origin <git_repo_address/path>
+>git config master.remote origin
+>git config master.merge refs/heads/master
